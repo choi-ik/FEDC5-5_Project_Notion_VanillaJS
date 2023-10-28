@@ -1,6 +1,6 @@
 import { HTTPRequest } from "../Util/Api.js";
 import { getItem, removeItem } from "../Util/Storage.js";
-import { pushPostStorage } from "../Util/postStorage.js";
+import { pushPostStorage } from "../Util/PostStorage.js";
 import Modal from "./Modal.js";
 
 export default function PostList({ $target, initialState, onRenderContents }) {

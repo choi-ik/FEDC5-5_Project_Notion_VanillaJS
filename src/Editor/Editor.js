@@ -1,5 +1,5 @@
 import ResizeMenu from "./ResizeMenu.js";
-import { linkText } from "../Util/postStorage.js";
+import { linkText } from "../Util/PostStorage.js";
 import { applyMarkup, removeMarkup } from "../Util/TextScan.js";
 import { setCustomEvent } from "../Util/Router.js";
 
